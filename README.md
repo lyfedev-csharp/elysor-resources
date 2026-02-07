@@ -1,2 +1,2 @@
-# elysor-resources
-the resources for elysor paid, private and more
+# chqser-resources
+the resources for chqser paid, private and more
